@@ -19,7 +19,7 @@ This project performs subscription analysis using SQL queries and visualizes ins
         * `Retention_Rate`: The percentage of customers retained over the same period.
         * `Retained`: The number of customers retained each week.
 * SQL Query 2:
-    * This query is a variation of the first one, but it focuses on a different dimension or timeframe, possibly providing more detailed insights into customer behavior.
+    * This query is a variation of the first one, but it simply returns the total new subscription in each week.
 * Power BI File:
     * This file contains visual representations of the subscription and churn data.
     * It helps in understanding the retention trends using interactive charts and tables.
